@@ -37,7 +37,9 @@
 https://sofia1988.github.io/Simon_dice <br>
 https://sofia1988.github.io/website-starbucks/# <br>
 http://valorantcreacionesbrunila.rf.gd/ <br>
-https://sofia1988.github.io/BEST-MOBILE-APPSHOWCASE/
+https://sofia1988.github.io/BEST-MOBILE-APPSHOWCASE/ <br>
+https://sofia1988.github.io/js-list/ <br>
+https://sofia1988.github.io/animated-Website/
 
 
 
