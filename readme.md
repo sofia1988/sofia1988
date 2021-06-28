@@ -1,5 +1,5 @@
 <p>
-  <img src="/portada.svg">
+  <img src="/portadacb.svg">
 </p>
 
 
