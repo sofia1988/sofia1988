@@ -1,10 +1,4 @@
-<div>
-  <img src="/portadacb.svg">
-</div>
-
-
-
-
+# 💫 About Me:
 Soy una desarrolladora Full Stack con experiencia en Java y, además, diseñadora gráfica . 🚀 Mi enfoque creativo y resolutivo me ha permitido abordar proyectos de manera analítica, siempre buscando soluciones eficientes y elegantes. 🎨<br><br>Mi formación como contador público amplía mi perspectiva, permitiéndome comprender la estructura y la eficiencia organizativa de manera integral. 💼<br><br>Te invito a explorar mi repositorio, donde podrás encontrar ejemplos de mis prácticas actuales y pasadas.
 
 
@@ -17,9 +11,6 @@ Soy una desarrolladora Full Stack con experiencia en Java y, además, diseñador
 ![](https://github-readme-stats.vercel.app/api?username=sofia1988&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sofia1988&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sofia1988&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-
 
 
 ---
