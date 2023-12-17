@@ -35,11 +35,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofia1988)](https://github.com/anuraghazra/github-readme-stats)
 
 https://sofia1988.github.io/Simon_dice <br>
-https://sofia1988.github.io/website-starbucks/# <br>
-http://valorantcreacionesbrunila.rf.gd/ <br>
+https://app-rick-and-morty-nine.vercel.app/ <br>
+https://proyecto-toshiba-bootstrap.vercel.app/ <br>
 https://sofia1988.github.io/BEST-MOBILE-APPSHOWCASE/ <br>
 https://sofia1988.github.io/js-list/ <br>
-https://sofia1988.github.io/animated-Website/
+https://app-spa-products.vercel.app/
 
 
 
