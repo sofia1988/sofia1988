@@ -12,8 +12,7 @@ Soy una desarrolladora Full Stack con experiencia en Java y, además, diseñador
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sofia1988&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sofia1988&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sofia1988&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sofia1988&limit=5&theme=dark&combine_all_yearly_contributions=true)
