@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 Soy una desarrolladora Full Stack con experiencia en Java y, además, diseñadora gráfica . 🚀 Mi enfoque creativo y resolutivo me ha permitido abordar proyectos de manera analítica, siempre buscando soluciones eficientes y elegantes. 🎨<br><br>Mi formación como contador público amplía mi perspectiva, permitiéndome comprender la estructura y la eficiencia organizativa de manera integral. 💼<br><br>Te invito a explorar mi repositorio, donde podrás encontrar ejemplos de mis prácticas actuales y pasadas.
 
 
@@ -14,8 +14,7 @@ Soy una desarrolladora Full Stack con experiencia en Java y, además, diseñador
 
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sofia1988&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sofia1988&icon=0&color=0)](https://visitcount.itsvg.in)
