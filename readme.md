@@ -1,7 +1,7 @@
 <div>
   <img src="/portadacb.svg">
 </div>
-# 💫 About Me:
+## 🌐 Socials:
 Soy una desarrolladora Full Stack con experiencia en Java y, además, diseñadora gráfica . 🚀 Mi enfoque creativo y resolutivo me ha permitido abordar proyectos de manera analítica, siempre buscando soluciones eficientes y elegantes. 🎨<br><br>Mi formación como contador público amplía mi perspectiva, permitiéndome comprender la estructura y la eficiencia organizativa de manera integral. 💼<br><br>Te invito a explorar mi repositorio, donde podrás encontrar ejemplos de mis prácticas actuales y pasadas.
 
 
